@@ -1,0 +1,187 @@
+VIDEO 1 - RESEARCH EVOLUTION
+
+Caption-derived transcript draft; requires comparison with the recording.
+
+Source: Video Project 4 (1).srt. Caption wording retained; timestamps are caption start times.
+
+
+
+[00:00:00,920] Hi, what was well my name is Matthew
+
+[00:00:03,661] and the company I've been doing today is
+
+[00:00:06,401] Amazon. Before I begin, I want to
+
+[00:00:08,800] disclose that I use AI to help research
+
+[00:00:11,540] Amazon, develop the financial model,
+
+[00:00:13,253] review calculations and prepare this
+
+[00:00:14,966] dashboard. The source comparison shown
+
+[00:00:16,679] here was also as this presentation is
+
+[00:00:19,077] educational and not for investment
+
+[00:00:20,790] advice. My project evaluates whether a
+
+[00:00:22,846] fund with no existing Amazon position
+
+[00:00:24,901] should initiate an investment. The
+
+[00:00:26,614] analyst uses historical validate
+
+[00:00:27,984] validation date of February 6, 2026.
+
+[00:00:30,430] Forecast through 2030, the central
+
+[00:00:32,100] question is whether Amazon's growth can
+
+[00:00:34,103] generate enough additional cash to
+
+[00:00:35,773] justify the investment required to
+
+[00:00:37,442] support it. My original edition
+
+[00:00:40,276] a focus on meta. Its
+
+[00:00:43,057] research question concerned whether
+
+[00:00:44,764] substantial AI investment would generate
+
+[00:00:46,899] sufficient returns through advertising
+
+[00:00:48,607] monetization. After switching to Amazon,
+
+[00:00:50,741] that investment return collection
+
+[00:00:52,449] remained relevant, but the operating
+
+[00:00:54,583] drivers changed. Amazon requires analysts
+
+[00:00:56,718] of AWS capacity, cloud pricing, retail
+
+[00:00:59,279] profitability, and infrastructure
+
+[00:01:00,560] spending. The Amazon Edition A was
+
+[00:01:03,121] prepared after the model as a company's
+
+[00:01:06,109] company switched out. If that
+
+[00:01:09,099] therefore, the documents current research
+
+[00:01:10,973] framing rather than serving as an earlier
+
+[00:01:13,595] independent forecast. This comparison of
+
+[00:01:15,469] research questions across companies, not
+
+[00:01:17,342] a direct comparison of valuation results.
+
+[00:01:20,390] So what does management actions for? The
+
+[00:01:22,683] source shown here is Amazon's February
+
+[00:01:24,648] 5th earnings relief. Management expects
+
+[00:01:27,229] approximately $200 billion in capital
+
+[00:01:29,325] expenditures across Amazon during 2026.
+
+[00:01:31,422] This supports the initial investment
+
+[00:01:33,519] amount as management's outlook. However,
+
+[00:01:35,616] it does not establish an AWS only
+
+[00:01:38,551] budget guarantee. Actual spending or
+
+[00:01:41,245] explain the entire investment path.
+
+[00:01:43,136] Similarly, the report of 24% AWS growth
+
+[00:01:45,784] describes fourth quarter of 2025. It
+
+[00:01:48,054] provides historical context, but does not
+
+[00:01:50,324] guarantee the same growth for influence
+
+[00:01:52,593] by sex.
+
+[00:01:55,600] The outcome of AI system source check is
+
+[00:01:58,467] to qualify the forecast. First, the
+
+[00:02:00,617] models treatment of the $200 billion as
+
+[00:02:03,126] cash investment requires reconciliation
+
+[00:02:04,559] with the assets acquired through leases.
+
+[00:02:06,710] Second to Spain declined after 2026 is a
+
+[00:02:09,577] modeling judgment. The cited paragraph
+
+[00:02:11,369] does not support that decline. Third, the
+
+[00:02:13,877] 0.6 capacity response factor is also a
+
+[00:02:16,386] judgment. It links stronger AWS growth to
+
+[00:02:18,895] additional investment, but management
+
+[00:02:20,328] does not supply the coefficient. These
+
+[00:02:23,260] distinctions matter because stronger
+
+[00:02:24,460] sales do not automatically translate into
+
+[00:02:26,260] proportionally stronger free cash flow.
+
+[00:02:28,030] If delivering growth requires more
+
+[00:02:29,947] infrastructure than assume, the valuation
+
+[00:02:31,863] could weaken. Alternative investment
+
+[00:02:34,350] paths therefore detested.
+
+[00:02:37,140] The SAVE model produces approximately $73
+
+[00:02:39,686] per share compared with historical
+
+[00:02:41,808] reference point of 210. However, about
+
+[00:02:44,354] 94% of the enterprise value comes from
+
+[00:02:47,324] terminal value that makes a loan
+
+[00:02:49,870] operating assumptions, reinvestment
+
+[00:02:51,143] requirements and discount rates
+
+[00:02:52,841] especially consequential. The mechanical
+
+[00:02:54,538] comparison indicates not initiating the
+
+[00:02:56,660] broader research position remains watch
+
+[00:02:58,782] or defer while those assumptions are
+
+[00:03:01,328] validated all 29 save base checks, but
+
+[00:03:04,298] those checks establish internal
+
+[00:03:05,996] consistency. You're not independently
+
+[00:03:07,815] verify every source or prove that the
+
+[00:03:10,487] financial assumptions are realistic. A
+
+[00:03:12,395] defensible recommendation requires both
+
+[00:03:13,922] calculations and economic assumption
+
+[00:03:15,448] support.

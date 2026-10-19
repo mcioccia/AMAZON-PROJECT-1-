@@ -1,0 +1,44 @@
+{
+  "status": "Provisional; see docs/peer-check.md for exclusions and comparability limits",
+  "peers": [
+    {
+      "ticker": "AMZN",
+      "price": 210.32,
+      "shares": 10734.92087,
+      "face_debt": 69291,
+      "finance_leases_and_financing": 20444,
+      "cash_and_securities": 123029,
+      "ebit": 79975,
+      "eps": 7.17,
+      "ev": 2224474.5573784,
+      "ev_ebit": 27.81462403724164,
+      "pe": 29.333333333333332
+    },
+    {
+      "ticker": "GOOGL",
+      "price": 322.86,
+      "shares": 12088,
+      "face_debt": 49085,
+      "finance_leases_and_financing": 2500,
+      "cash_and_securities": 126843,
+      "ebit": 129039,
+      "eps": 10.81,
+      "ev": 3827473.68,
+      "ev_ebit": 29.661371213354105,
+      "pe": 29.866790009250693
+    },
+    {
+      "ticker": "META",
+      "price": 661.46,
+      "shares": 2530,
+      "face_debt": 59000,
+      "finance_leases_and_financing": 1184,
+      "cash_and_securities": 81592,
+      "ebit": 83276,
+      "eps": 23.49,
+      "ev": 1652085.8,
+      "ev_ebit": 19.83867861088429,
+      "pe": 28.159216687952323
+    }
+  ]
+}

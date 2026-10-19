@@ -1,0 +1,228 @@
+VIDEO 3 - INVESTMENT COMMITTEE PRESENTATION
+Caption-derived review draft. Caption wording retained; verify against audio before submission.
+
+[00:00:02,270] Hi I use the IHOP about the Amazon
+
+[00:00:05,150] validation model dashboard test and
+
+[00:00:06,950] presentation. This is educational course
+
+[00:00:08,750] for non investment advice. For fun,
+
+[00:00:11,726] with no existing Amazon position, my
+
+[00:00:14,174] current recommendation is to defer
+
+[00:00:16,214] initiation. This analyst uses historical
+
+[00:00:18,254] valuation date of February 6th, 2026.
+
+[00:00:20,702] I'll demonstrate the tool to explain the
+
+[00:00:23,558] assumptions behind the decision.
+
+[00:00:26,390] So first I'll recalculate from AWS
+
+[00:00:29,215] growth in 20 in 2026 to
+
+[00:00:32,039] 28. We'll go ahead and recalculate.
+
+[00:00:37,140] Its increasing initial AWS growth in 2020
+
+[00:00:40,119] from 24 to 28% raises the calculated
+
+[00:00:43,098] value from 73 to $88 per share.
+
+[00:00:46,077] The model also increases later investment
+
+[00:00:48,630] requirements, so faster growth carries an
+
+[00:00:51,183] additional capital policy. So
+
+[00:00:54,138] now I'm going to go to reset to base.
+
+[00:00:57,350] And then test invalid
+
+[00:00:59,814] inputs. This diagnosis sets both
+
+[00:01:02,761] a discountry and terminal growth at 3%.
+
+[00:01:05,630] That makes the terminal value denominator
+
+[00:01:08,382] 0. The model rejects the inputs
+
+[00:01:11,134] and withholds valuation. Then I go
+
+[00:01:14,030] ahead and reset this.
+
+[00:01:17,480] Restoring valid inputs for covering the
+
+[00:01:19,434] base. So operating
+
+[00:01:22,144] forecasts and free cash flow. So
+
+[00:01:24,946] the investment question is whether Amazon
+
+[00:01:27,749] can create sufficient cash returns from
+
+[00:01:30,551] the infrastructure reporting its growth.
+
+[00:01:32,886] The forecast operates AWS North America
+
+[00:01:35,689] and International Revenue. Operating
+
+[00:01:38,255] assumptions flow through depreciation,
+
+[00:01:40,117] Pax's working capital, and investment
+
+[00:01:42,444] into free cash flow. The important
+
+[00:01:45,236] relationship is between growth and
+
+[00:01:47,563] investment. Stronger demand can increase
+
+[00:01:49,890] operating profit, but capital spending
+
+[00:01:52,217] absorbs cash before the full benefits
+
+[00:01:55,009] arrive. A persuasive investment case
+
+[00:01:57,336] therefore needs evidence about capital
+
+[00:01:59,663] productivity, not just sales growth.
+
+[00:02:06,730] So we'll go to.
+
+[00:02:09,350] Save base cases and the selected
+
+[00:02:12,298] downside base and upside scenarios
+
+[00:02:14,755] produce approximately $5, $73, and $179 per
+
+[00:02:17,703] share. The historical comparison price is
+
+[00:02:20,651] approximately 210. These are conditional
+
+[00:02:23,107] scenarios, not probability or statistical
+
+[00:02:25,564] established valuation range. Each changes
+
+[00:02:28,021] several assumptions. Together. Their
+
+[00:02:29,986] results support caution with the with
+
+[00:02:32,934] this model, but they do not
+
+[00:02:35,882] independently establish the Amazon is
+
+[00:02:38,339] overvalued. Operating assumptions and
+
+[00:02:40,698] evaluation methods still need to charger
+
+[00:02:43,074] calibration. So the
+
+[00:02:45,694] sensitive analysis shows how the results
+
+[00:02:48,286] responds to different assumptions. The
+
+[00:02:50,446] current 10% discount rate is a
+
+[00:02:53,038] judgment input, not a completed market
+
+[00:02:55,630] based estimate. Approximately 94% of the
+
+[00:02:58,222] base enterprise value comes from the
+
+[00:03:00,814] terminal. That makes sustainable profit,
+
+[00:03:02,974] profitability, reinvestment and the
+
+[00:03:04,702] discount rate especially important. The
+
+[00:03:07,588] regiosensitivity is also dependence on
+
+[00:03:09,180] the range of Sassen. It does not prove
+
+[00:03:11,727] that one variable is always a company's
+
+[00:03:13,955] most important risk.
+
+[00:03:17,710] So the reverse evaluation asks what
+
+[00:03:20,334] would be required to match historical
+
+[00:03:22,959] share price. Holding explicit cash flows
+
+[00:03:25,583] and the other specified valuation
+
+[00:03:27,770] assumptions fixed. The calculation
+
+[00:03:29,519] requires a terminal operating margin of
+
+[00:03:32,143] approximately 31%. That is a conditional
+
+[00:03:34,768] model result, not a claim about
+
+[00:03:37,392] investors. Actual expectation is
+
+[00:03:39,141] different. Growth, investment or discount
+
+[00:03:41,328] rate assumptions could produce a
+
+[00:03:43,515] different answer.
+
+[00:03:48,050] The equity bridge account.
+
+[00:03:50,990] Sorry, one second.
+
+[00:03:53,810] So the the equity bridge accounts
+
+[00:03:56,505] for excess cash, securities, private
+
+[00:03:58,752] investments, debt, financial leases, and
+
+[00:04:00,998] financing obligations. These treatments
+
+[00:04:02,795] matter, particularly the realizable value
+
+[00:04:05,041] of private investments and the
+
+[00:04:07,287] distinction between operating and
+
+[00:04:09,084] financing claims. Further work must be
+
+[00:04:11,779] reconciled. Investments and leases
+
+[00:04:13,576] calibrate signal margins and estimated
+
+[00:04:15,822] cost of capital.
+
+[00:04:18,880] So my my commitment, my committee request
+
+[00:04:21,723] is to keep Amazon watchlist and defer
+
+[00:04:24,567] committing capital until this analysis. I
+
+[00:04:27,004] would reconsider if supporting operating
+
+[00:04:29,035] assumptions and calibrated discount rate
+
+[00:04:31,066] produce a defensible value above the
+
+[00:04:33,503] purchase price with an adequate margin of
+
+[00:04:36,346] safety across plausible investment
+
+[00:04:37,971] requirements. The tool makes those
+
+[00:04:40,002] conditions testable. Its calculation
+
+[00:04:41,627] supports structured discussion, but the
+
+[00:04:43,658] final decision depends on the quality of
+
+[00:04:46,501] the underlying evidence. Thank
+
+[00:04:49,360] you.
+
+

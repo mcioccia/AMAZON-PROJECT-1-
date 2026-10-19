@@ -1,0 +1,18 @@
+AI-assisted run; not a human cold run.
+UTC: 2026-10-19T14:45:51.544593+00:00
+Command: C:\Users\mac10\AppData\Local\Programs\Python\Python313\python.exe -m unittest -v
+test_all_512_control_corners (test_model.ModelTests.test_all_512_control_corners) ... ok
+test_base_and_causal_cases (test_model.ModelTests.test_base_and_causal_cases) ... ok
+test_directional_predictions (test_model.ModelTests.test_directional_predictions) ... ok
+test_independent_known_answer (test_model.ModelTests.test_independent_known_answer) ... ok
+test_invalid_inputs_and_failure_recovery (test_model.ModelTests.test_invalid_inputs_and_failure_recovery) ... ok
+test_npv_rejects_missing_discount_time (test_model.ModelTests.test_npv_rejects_missing_discount_time) ... ok
+test_source_reconciliation (test_model.ModelTests.test_source_reconciliation) ... ok
+test_terminal_diagnostic_and_recovery (test_model.ModelTests.test_terminal_diagnostic_and_recovery) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.349s
+
+OK
+
+Exit code: 0

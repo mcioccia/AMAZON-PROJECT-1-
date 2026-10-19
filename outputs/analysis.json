@@ -1,0 +1,2299 @@
+{
+  "base": {
+    "valid": true,
+    "notice": "AI-assisted coursework draft. Educational purposes only; not investment advice.",
+    "valuation_date": "2026-02-06",
+    "market_price": 210.32,
+    "assumptions": {
+      "retail_growth": 0.095,
+      "international_growth": 0.1,
+      "aws_growth": 0.24,
+      "na_predep_margin": 0.115,
+      "intl_predep_margin": 0.065,
+      "aws_predep_margin": 0.59,
+      "capex_2026": 200000,
+      "capex_path": [
+        1,
+        0.95,
+        0.9,
+        0.88,
+        0.87
+      ],
+      "capacity_elasticity": 0.65,
+      "asset_life": 6,
+      "legacy_da_decay": 0.85,
+      "sbc_ratio": 0.0271549026,
+      "tax_rate": 0.21,
+      "debt_cost": 0.05,
+      "cash_floor": 25000,
+      "borrowing_ceiling": 250000,
+      "finance_lease_additions": 3000,
+      "finance_lease_principal": 1600,
+      "financing_principal": 358,
+      "debt_maturities": [
+        2752,
+        8832,
+        4752,
+        3000,
+        4500
+      ],
+      "wacc": 0.1,
+      "terminal_growth": 0.03,
+      "terminal_roic": 0.15,
+      "diluted_shares": 10905.92087,
+      "investment_realization": 0.75,
+      "investment_tax": 0.21
+    },
+    "opening_balance_sheet": {
+      "cash": 86810,
+      "securities": 36219,
+      "inventory": 38325,
+      "receivables": 67729,
+      "ppe": 357025,
+      "rou": 86054,
+      "goodwill": 23273,
+      "other_assets": 122607,
+      "trade_payables": 94909,
+      "capex_payable": 27000,
+      "operating_accruals": 57760,
+      "unearned": 20576,
+      "operating_leases": 89252,
+      "debt": 68851,
+      "finance_leases": 12286,
+      "financing_obligations": 8158,
+      "other_liabilities": 28185,
+      "equity": 411065
+    },
+    "years": [
+      {
+        "year": 2026,
+        "revenue": 804506.375,
+        "segment_sales": [
+          466803.975,
+          178083.40000000002,
+          159619.0
+        ],
+        "segment_predep_income": [
+          53682.457125,
+          11575.421000000002,
+          94175.20999999999
+        ],
+        "predep_income": 159433.088125,
+        "depreciation": 58847.20769158702,
+        "ebit": 100585.880433413,
+        "interest": 4096.856000000001,
+        "pretax": 96489.024433413,
+        "taxes": 20262.695131016728,
+        "net_income": 76226.32930239628,
+        "sbc": 21846.292254204076,
+        "capex": 200000,
+        "finance_lease_additions": 3366.4922990442496,
+        "investment": 203366.49229904424,
+        "change_nwc": -8208.328021694062,
+        "nopat": 79462.84554239627,
+        "fcff": -56848.111043366895,
+        "cfo": 165128.15726988143,
+        "cfi": -200000,
+        "cff": -4710,
+        "borrowing": 0,
+        "debt_repaid": 2752,
+        "lease_principal": 1600,
+        "financing_principal": 358,
+        "balance_sheet": {
+          "cash": 47228.15726988143,
+          "securities": 36219,
+          "inventory": 43006.9391202903,
+          "receivables": 76003.05230732268,
+          "ppe": 501544.28460745723,
+          "rou": 96957.3902247658,
+          "goodwill": 23273,
+          "other_assets": 122607,
+          "trade_payables": 106503.47253666358,
+          "capex_payable": 27000,
+          "operating_accruals": 64816.19839759863,
+          "unearned": 23089.64851504483,
+          "operating_leases": 100155.3902247658,
+          "debt": 66099,
+          "finance_leases": 14052.49229904425,
+          "financing_obligations": 7800,
+          "other_liabilities": 28185,
+          "equity": 509137.6215566003
+        }
+      },
+      {
+        "year": 2027,
+        "revenue": 898552.8357500001,
+        "segment_sales": [
+          508816.33275,
+          195001.32300000003,
+          194735.18
+        ],
+        "segment_predep_income": [
+          59531.51093175,
+          13065.088641000002,
+          114893.75619999999
+        ],
+        "predep_income": 187490.35577275,
+        "depreciation": 85656.08487060112,
+        "ebit": 101834.27090214887,
+        "interest": 4008.9347381675047,
+        "pretax": 97825.33616398137,
+        "taxes": 20543.320594436085,
+        "net_income": 77282.01556954528,
+        "sbc": 24400.11473574505,
+        "capex": 190000.0,
+        "finance_lease_additions": 3760.0338491248726,
+        "investment": 193760.03384912488,
+        "change_nwc": -8814.15009715571,
+        "nopat": 80449.07401269762,
+        "fcff": -18840.724868670426,
+        "cfo": 196152.36527304715,
+        "cfi": -190000.0,
+        "cff": -10790,
+        "borrowing": 0,
+        "debt_repaid": 8832,
+        "lease_principal": 1600,
+        "financing_principal": 358,
+        "balance_sheet": {
+          "cash": 42590.52254292858,
+          "securities": 36219,
+          "inventory": 48034.432422570244,
+          "receivables": 84887.77752245951,
+          "ppe": 609648.2335859811,
+          "rou": 108665.5137006977,
+          "goodwill": 23273,
+          "other_assets": 122607,
+          "trade_payables": 118953.68419553085,
+          "capex_payable": 27000,
+          "operating_accruals": 72393.18504181755,
+          "unearned": 25788.81882653113,
+          "operating_leases": 111863.5137006977,
+          "debt": 57267,
+          "finance_leases": 16212.526148169123,
+          "financing_obligations": 7442,
+          "other_liabilities": 28185,
+          "equity": 610819.7518618907
+        }
+      },
+      {
+        "year": 2028,
+        "revenue": 998299.37910375,
+        "segment_sales": [
+          552065.72103375,
+          212551.44207000005,
+          233682.216
+        ],
+        "segment_predep_income": [
+          65695.82080301625,
+          14666.049502830005,
+          137872.50744
+        ],
+        "predep_income": 218234.37774584623,
+        "depreciation": 111808.62332848522,
+        "ebit": 106425.75441736101,
+        "interest": 3630.393889037751,
+        "pretax": 102795.36052832326,
+        "taxes": 21587.025710947884,
+        "net_income": 81208.33481737538,
+        "sbc": 27108.722405202807,
+        "capex": 180000.0,
+        "finance_lease_additions": 4177.427645484388,
+        "investment": 184177.4276454844,
+        "change_nwc": -9348.36885706408,
+        "nopat": 84076.34598971519,
+        "fcff": 21055.910529780114,
+        "cfo": 229474.04940812747,
+        "cfi": -180000.0,
+        "cff": -6710,
+        "borrowing": 0,
+        "debt_repaid": 4752,
+        "lease_principal": 1600,
+        "financing_principal": 358,
+        "balance_sheet": {
+          "cash": 85354.57195105602,
+          "securities": 36219,
+          "inventory": 53366.63817106306,
+          "receivables": 94310.9990003374,
+          "ppe": 682017.0379029802,
+          "rou": 121083.25740492421,
+          "goodwill": 23273,
+          "other_assets": 122607,
+          "trade_payables": 132158.49346842594,
+          "capex_payable": 27000,
+          "operating_accruals": 80429.40693439277,
+          "unearned": 28651.583744495594,
+          "operating_leases": 124281.25740492421,
+          "debt": 52515,
+          "finance_leases": 18789.953793653513,
+          "financing_obligations": 7084,
+          "other_liabilities": 28185,
+          "equity": 719136.8090844689
+        }
+      },
+      {
+        "year": 2029,
+        "revenue": 1102594.3082424002,
+        "segment_sales": [
+          596230.97871645,
+          230618.31464595004,
+          275745.01488
+        ],
+        "segment_predep_income": [
+          72143.94842469046,
+          16373.900339862455,
+          162689.5587792
+        ],
+        "predep_income": 251207.4075437529,
+        "depreciation": 137666.9843291211,
+        "ebit": 113540.4232146318,
+        "interest": 3470.0444289842194,
+        "pretax": 110070.37878564758,
+        "taxes": 23114.77954498599,
+        "net_income": 86955.5992406616,
+        "sbc": 29940.841047636754,
+        "capex": 176000.0,
+        "finance_lease_additions": 4613.8543621460585,
+        "investment": 180613.85436214606,
+        "change_nwc": -9774.649173071375,
+        "nopat": 89696.93433955911,
+        "fcff": 56524.71347960553,
+        "cfo": 264338.07379049086,
+        "cfi": -176000.0,
+        "cff": -4958,
+        "borrowing": 0,
+        "debt_repaid": 3000,
+        "lease_principal": 1600,
+        "financing_principal": 358,
+        "balance_sheet": {
+          "cash": 168734.64574154688,
+          "securities": 36219,
+          "inventory": 58941.98947641589,
+          "receivables": 104163.91403126346,
+          "ppe": 724963.9079360053,
+          "rou": 134067.2431767533,
+          "goodwill": 23273,
+          "other_assets": 122607,
+          "trade_payables": 145965.43455230672,
+          "capex_payable": 27000,
+          "operating_accruals": 88832.0759858521,
+          "unearned": 31644.889118505762,
+          "operating_leases": 137265.2431767533,
+          "debt": 49515,
+          "finance_leases": 21803.808155799572,
+          "financing_obligations": 6726,
+          "other_liabilities": 28185,
+          "equity": 836033.2493727672
+        }
+      },
+      {
+        "year": 2030,
+        "revenue": 1209880.2991986098,
+        "segment_sales": [
+          640948.3021201838,
+          249067.77981762605,
+          319864.21726079995
+        ],
+        "segment_predep_income": [
+          78836.64116078262,
+          18181.947926686706,
+          188719.88818387195
+        ],
+        "predep_income": 285738.47727134125,
+        "depreciation": 163780.26301000788,
+        "ebit": 121958.21426133337,
+        "interest": 3412.1334772971854,
+        "pretax": 118546.08078403618,
+        "taxes": 24894.6769646476,
+        "net_income": 93651.40381938858,
+        "sbc": 32854.1816823971,
+        "capex": 174000.0,
+        "finance_lease_additions": 5062.797308495502,
+        "investment": 179062.7973084955,
+        "change_nwc": -10054.975169388563,
+        "nopat": 96346.98926645337,
+        "fcff": 91119.43013735431,
+        "cfo": 300340.8236811821,
+        "cfi": -174000.0,
+        "cff": -6458,
+        "borrowing": 0,
+        "debt_repaid": 4500,
+        "lease_principal": 1600,
+        "financing_principal": 358,
+        "balance_sheet": {
+          "cash": 288617.469422729,
+          "securities": 36219,
+          "inventory": 64677.23561603004,
+          "receivables": 114299.39963569728,
+          "ppe": 740246.4422344929,
+          "rou": 147423.59512594683,
+          "goodwill": 23273,
+          "other_assets": 122607,
+          "trade_payables": 160168.34325066654,
+          "capex_payable": 27000,
+          "operating_accruals": 97475.72417956674,
+          "unearned": 34724.03913986782,
+          "operating_leases": 150621.59512594683,
+          "debt": 45015,
+          "finance_leases": 25266.605464295073,
+          "financing_obligations": 6368,
+          "other_liabilities": 28185,
+          "equity": 962538.8348745529
+        }
+      }
+    ],
+    "checks": [
+      {
+        "name": "Historical balance sheet matches filing",
+        "residual": 0,
+        "passed": true
+      },
+      {
+        "name": "Historical assets match filing",
+        "residual": 0,
+        "passed": true
+      },
+      {
+        "name": "Segment revenue reconciles",
+        "residual": 0,
+        "passed": true
+      },
+      {
+        "name": "Segment EBIT reconciles",
+        "residual": 0,
+        "passed": true
+      },
+      {
+        "name": "2026 Balance sheet",
+        "residual": 0.0,
+        "passed": true
+      },
+      {
+        "name": "2026 Cash flow to cash",
+        "residual": 0.0,
+        "passed": true
+      },
+      {
+        "name": "2026 FCFF to CFO bridge",
+        "residual": 0.0,
+        "passed": true
+      },
+      {
+        "name": "2026 funding ceiling",
+        "residual": 0,
+        "passed": true
+      },
+      {
+        "name": "2026 nonnegative asset and cash-cost balances",
+        "residual": null,
+        "passed": true
+      },
+      {
+        "name": "2027 Balance sheet",
+        "residual": 1.1641532182693481e-10,
+        "passed": true
+      },
+      {
+        "name": "2027 Cash flow to cash",
+        "residual": 0.0,
+        "passed": true
+      },
+      {
+        "name": "2027 FCFF to CFO bridge",
+        "residual": 2.9103830456733704e-11,
+        "passed": true
+      },
+      {
+        "name": "2027 funding ceiling",
+        "residual": 0,
+        "passed": true
+      },
+      {
+        "name": "2027 nonnegative asset and cash-cost balances",
+        "residual": null,
+        "passed": true
+      },
+      {
+        "name": "2028 Balance sheet",
+        "residual": -1.1641532182693481e-10,
+        "passed": true
+      },
+      {
+        "name": "2028 Cash flow to cash",
+        "residual": -2.9103830456733704e-11,
+        "passed": true
+      },
+      {
+        "name": "2028 FCFF to CFO bridge",
+        "residual": 2.9103830456733704e-11,
+        "passed": true
+      },
+      {
+        "name": "2028 funding ceiling",
+        "residual": 0,
+        "passed": true
+      },
+      {
+        "name": "2028 nonnegative asset and cash-cost balances",
+        "residual": null,
+        "passed": true
+      },
+      {
+        "name": "2029 Balance sheet",
+        "residual": 1.1641532182693481e-10,
+        "passed": true
+      },
+      {
+        "name": "2029 Cash flow to cash",
+        "residual": 0.0,
+        "passed": true
+      },
+      {
+        "name": "2029 FCFF to CFO bridge",
+        "residual": -8.731149137020111e-11,
+        "passed": true
+      },
+      {
+        "name": "2029 funding ceiling",
+        "residual": 0,
+        "passed": true
+      },
+      {
+        "name": "2029 nonnegative asset and cash-cost balances",
+        "residual": null,
+        "passed": true
+      },
+      {
+        "name": "2030 Balance sheet",
+        "residual": 0.0,
+        "passed": true
+      },
+      {
+        "name": "2030 Cash flow to cash",
+        "residual": 0.0,
+        "passed": true
+      },
+      {
+        "name": "2030 FCFF to CFO bridge",
+        "residual": 1.4551915228366852e-11,
+        "passed": true
+      },
+      {
+        "name": "2030 funding ceiling",
+        "residual": 0,
+        "passed": true
+      },
+      {
+        "name": "2030 nonnegative asset and cash-cost balances",
+        "residual": null,
+        "passed": true
+      }
+    ],
+    "warnings": [
+      "Scenario assumptions are AI-assisted proposals awaiting student judgment.",
+      "December balance sheet is a proxy at February valuation date; interim changes are not measured.",
+      "Terminal phase resets investment to growth/ROIC; review the explicit-to-terminal transition.",
+      "Borrowing is an assumed funding route, not committed access to capital.",
+      "More than 75% of operating value comes from the terminal period."
+    ],
+    "value": {
+      "ev": 755266.7562669065,
+      "equity": 799466.2562669065,
+      "per_share": 73.30570850427475,
+      "upside": -0.6514563117902494,
+      "action": "Do not initiate",
+      "bridge": {
+        "excess_cash": 61810,
+        "marketable_securities": 36219,
+        "anthropic_value_after_haircut_and_tax": 35905.5,
+        "debt_face": -69291,
+        "finance_leases": -12286,
+        "financing_obligations": -8158
+      },
+      "pv_explicit": 44175.522952169194,
+      "terminal_fcff": 79389.91915555758,
+      "terminal_nopat": 99237.39894444698,
+      "terminal_reinvestment": 19847.479788889395,
+      "terminal_value": 1134141.702222251,
+      "pv_terminal": 711091.2333147373,
+      "terminal_share": 0.9415100392204236,
+      "discount_times": [
+        0.8980150581793293,
+        1.8973305954825461,
+        2.8993839835728954,
+        3.898699520876112,
+        4.898015058179329
+      ],
+      "cumulative_borrowing": 0
+    }
+  },
+  "scenarios": {
+    "Downside": {
+      "valid": true,
+      "notice": "AI-assisted coursework draft. Educational purposes only; not investment advice.",
+      "valuation_date": "2026-02-06",
+      "market_price": 210.32,
+      "assumptions": {
+        "retail_growth": 0.06,
+        "international_growth": 0.05,
+        "aws_growth": 0.16,
+        "na_predep_margin": 0.095,
+        "intl_predep_margin": 0.065,
+        "aws_predep_margin": 0.54,
+        "capex_2026": 220000,
+        "capex_path": [
+          1,
+          0.95,
+          0.9,
+          0.88,
+          0.87
+        ],
+        "capacity_elasticity": 0.65,
+        "asset_life": 6,
+        "legacy_da_decay": 0.85,
+        "sbc_ratio": 0.0271549026,
+        "tax_rate": 0.21,
+        "debt_cost": 0.05,
+        "cash_floor": 25000,
+        "borrowing_ceiling": 250000,
+        "finance_lease_additions": 3000,
+        "finance_lease_principal": 1600,
+        "financing_principal": 358,
+        "debt_maturities": [
+          2752,
+          8832,
+          4752,
+          3000,
+          4500
+        ],
+        "wacc": 0.11,
+        "terminal_growth": 0.02,
+        "terminal_roic": 0.1,
+        "diluted_shares": 10905.92087,
+        "investment_realization": 0.75,
+        "investment_tax": 0.21
+      },
+      "opening_balance_sheet": {
+        "cash": 86810,
+        "securities": 36219,
+        "inventory": 38325,
+        "receivables": 67729,
+        "ppe": 357025,
+        "rou": 86054,
+        "goodwill": 23273,
+        "other_assets": 122607,
+        "trade_payables": 94909,
+        "capex_payable": 27000,
+        "operating_accruals": 57760,
+        "unearned": 20576,
+        "operating_leases": 89252,
+        "debt": 68851,
+        "finance_leases": 12286,
+        "financing_obligations": 8158,
+        "other_liabilities": 28185,
+        "equity": 411065
+      },
+      "years": [
+        {
+          "year": 2026,
+          "revenue": 771193.0,
+          "segment_sales": [
+            451883.30000000005,
+            169988.7,
+            149321.0
+          ],
+          "segment_predep_income": [
+            42928.9135,
+            11049.265500000001,
+            80633.34000000001
+          ],
+          "predep_income": 134611.51900000003,
+          "depreciation": 60502.25758471842,
+          "ebit": 74109.26141528161,
+          "interest": 4096.856000000001,
+          "pretax": 70012.40541528161,
+          "taxes": 14702.605137209137,
+          "net_income": 55309.80027807247,
+          "sbc": 20941.6708008018,
+          "capex": 220000,
+          "finance_lease_additions": 3227.0910166210087,
+          "investment": 223227.091016621,
+          "change_nwc": -5086.15749926072,
+          "nopat": 58546.316518072475,
+          "fcff": -99092.3594145694,
+          "cfo": 141839.8861628534,
+          "cfi": -220000,
+          "cff": 16350.113837146608,
+          "borrowing": 21060.113837146608,
+          "debt_repaid": 2752,
+          "lease_principal": 1600,
+          "financing_principal": 358,
+          "balance_sheet": {
+            "cash": 25000.0,
+            "securities": 36219,
+            "inventory": 41226.087737333386,
+            "receivables": 72855.88248824143,
+            "ppe": 519749.8334319026,
+            "rou": 92810.10913848609,
+            "goodwill": 23273,
+            "other_assets": 122607,
+            "trade_payables": 102093.32709882777,
+            "capex_payable": 27000,
+            "operating_accruals": 62132.25904000982,
+            "unearned": 22133.54158599796,
+            "operating_leases": 96008.10913848609,
+            "debt": 87159.11383714661,
+            "finance_leases": 13913.091016621009,
+            "financing_obligations": 7800,
+            "other_liabilities": 28185,
+            "equity": 487316.47107887425
+          }
+        },
+        {
+          "year": 2027,
+          "revenue": 824601.013,
+          "segment_sales": [
+            476736.8815,
+            177638.1915,
+            170225.94000000003
+          ],
+          "segment_predep_income": [
+            46243.47750550001,
+            11901.758830499999,
+            91922.00760000003
+          ],
+          "predep_income": 150067.24393600004,
+          "depreciation": 89065.59405196393,
+          "ebit": 61001.64988403612,
+          "interest": 5057.200786422445,
+          "pretax": 55944.44909761367,
+          "taxes": 11748.33431049887,
+          "net_income": 44196.1147871148,
+          "sbc": 22391.960191876333,
+          "capex": 191502.3673950408,
+          "finance_lease_additions": 3450.5791952842983,
+          "investment": 194952.9465903251,
+          "change_nwc": -5005.464737521703,
+          "nopat": 48191.30340838853,
+          "fcff": -52690.58439245094,
+          "cfo": 160659.13376847678,
+          "cfi": -191502.3673950408,
+          "cff": 30843.233626564033,
+          "borrowing": 41633.23362656403,
+          "debt_repaid": 8832,
+          "lease_principal": 1600,
+          "financing_principal": 358,
+          "balance_sheet": {
+            "cash": 25000.0,
+            "securities": 36219,
+            "inventory": 44081.14921975691,
+            "receivables": 77901.42610580342,
+            "ppe": 625637.1859702638,
+            "rou": 99459.03144583806,
+            "goodwill": 23273,
+            "other_assets": 122607,
+            "trade_payables": 109163.67361507914,
+            "capex_payable": 27000,
+            "operating_accruals": 66435.15143987369,
+            "unearned": 23666.372507389904,
+            "operating_leases": 102657.03144583806,
+            "debt": 119960.34746371064,
+            "finance_leases": 15763.670211905308,
+            "financing_obligations": 7442,
+            "other_liabilities": 28185,
+            "equity": 553904.5460578654
+          }
+        },
+        {
+          "year": 2028,
+          "revenue": 875970.4975350001,
+          "segment_sales": [
+            500573.72557500005,
+            184743.71915999998,
+            190653.05280000006
+          ],
+          "segment_predep_income": [
+            49556.79883192501,
+            12747.31662204,
+            102952.64851200004
+          ],
+          "predep_income": 165256.76396596504,
+          "depreciation": 114730.47063304982,
+          "ebit": 50526.29333291523,
+          "interest": 6749.800160390313,
+          "pretax": 43776.49317252492,
+          "taxes": 9193.063566230232,
+          "net_income": 34583.42960629469,
+          "sbc": 23786.89354103647,
+          "capex": 173467.03532075064,
+          "finance_lease_additions": 3665.5370619549635,
+          "investment": 177132.5723827056,
+          "change_nwc": -4814.411339822924,
+          "nopat": 39915.77173300303,
+          "fcff": -17671.91867682984,
+          "cfo": 177915.2051202039,
+          "cfi": -173467.03532075064,
+          "cff": -4448.169799453259,
+          "borrowing": 2261.8302005467413,
+          "debt_repaid": 4752,
+          "lease_principal": 1600,
+          "financing_principal": 358,
+          "balance_sheet": {
+            "cash": 25000.0,
+            "securities": 36219,
+            "inventory": 46827.235966474655,
+            "receivables": 82754.38655638257,
+            "ppe": 688039.2877199196,
+            "rou": 105854.17128453481,
+            "goodwill": 23273,
+            "other_assets": 122607,
+            "trade_payables": 115964.15233769454,
+            "capex_payable": 27000,
+            "operating_accruals": 70573.80689950623,
+            "unearned": 25140.69686226178,
+            "operating_leases": 109052.17128453481,
+            "debt": 117470.17766425738,
+            "finance_leases": 17829.207273860273,
+            "financing_obligations": 7084,
+            "other_liabilities": 28185,
+            "equity": 612274.8692051966
+          }
+        },
+        {
+          "year": 2029,
+          "revenue": 924027.6506364751,
+          "segment_sales": [
+            523099.543225875,
+            191209.74933059997,
+            209718.3580800001
+          ],
+          "segment_predep_income": [
+            52833.05386581338,
+            13575.8922024726,
+            113247.91336320006
+          ],
+          "predep_income": 179656.85943148605,
+          "depreciation": 138776.6818334905,
+          "ebit": 40880.17759799556,
+          "interest": 6685.137930524119,
+          "pretax": 34195.039667471436,
+          "taxes": 7180.958330169001,
+          "net_income": 27014.081337302436,
+          "sbc": 25091.88085274031,
+          "capex": 162046.27769047828,
+          "finance_lease_additions": 3866.6343321041354,
+          "investment": 165912.91202258243,
+          "change_nwc": -4503.975559530998,
+          "nopat": 32295.340302416487,
+          "fcff": 9663.085672855537,
+          "cfo": 195386.61958306422,
+          "cfi": -162046.27769047828,
+          "cff": -4958,
+          "borrowing": 0,
+          "debt_repaid": 3000,
+          "lease_principal": 1600,
+          "financing_principal": 358,
+          "balance_sheet": {
+            "cash": 53382.341892585944,
+            "securities": 36219,
+            "inventory": 49396.25359263033,
+            "receivables": 87294.42555969366,
+            "ppe": 715175.5179090116,
+            "rou": 111836.94913631944,
+            "goodwill": 23273,
+            "other_assets": 122607,
+            "trade_payables": 122326.13260855713,
+            "capex_payable": 27000,
+            "operating_accruals": 74445.59967411163,
+            "unearned": 26519.956005791566,
+            "operating_leases": 115034.94913631944,
+            "debt": 114470.17766425738,
+            "finance_leases": 20095.841605964408,
+            "financing_obligations": 6726,
+            "other_liabilities": 28185,
+            "equity": 664380.8313952393
+          }
+        },
+        {
+          "year": 2030,
+          "revenue": 967465.3934918281,
+          "segment_sales": [
+            544023.52495491,
+            196946.04181051799,
+            226495.82672640012
+          ],
+          "segment_predep_income": [
+            56034.42307035574,
+            14377.061052167815,
+            122307.74643225607
+          ],
+          "predep_income": 192719.2305547796,
+          "depreciation": 161824.82964132173,
+          "ebit": 30894.40091345788,
+          "interest": 6601.821497815659,
+          "pretax": 24292.57941564222,
+          "taxes": 5101.441677284866,
+          "net_income": 19191.137738357353,
+          "sbc": 26271.428529141267,
+          "capex": 152933.7676944224,
+          "finance_lease_additions": 4048.4014769703404,
+          "investment": 156982.16917139274,
+          "change_nwc": -4071.0387435683515,
+          "nopat": 24406.576721631725,
+          "fcff": 33320.27593512906,
+          "cfo": 211358.4346523887,
+          "cfi": -152933.7676944224,
+          "cff": -6458,
+          "borrowing": 0,
+          "debt_repaid": 4500,
+          "lease_principal": 1600,
+          "financing_principal": 358,
+          "balance_sheet": {
+            "cash": 105349.00885055226,
+            "securities": 36219,
+            "inventory": 51718.3288682961,
+            "receivables": 91398.0612112414,
+            "ppe": 710332.8574390826,
+            "rou": 117244.6428741856,
+            "goodwill": 23273,
+            "other_assets": 122607,
+            "trade_payables": 128076.57859259268,
+            "capex_payable": 27000,
+            "operating_accruals": 77945.22310326895,
+            "unearned": 27766.636263380573,
+            "operating_leases": 120442.6428741856,
+            "debt": 109970.17766425738,
+            "finance_leases": 22544.243082934747,
+            "financing_obligations": 6368,
+            "other_liabilities": 28185,
+            "equity": 709843.3976627379
+          }
+        }
+      ],
+      "checks": [
+        {
+          "name": "Historical balance sheet matches filing",
+          "residual": 0,
+          "passed": true
+        },
+        {
+          "name": "Historical assets match filing",
+          "residual": 0,
+          "passed": true
+        },
+        {
+          "name": "Segment revenue reconciles",
+          "residual": 0,
+          "passed": true
+        },
+        {
+          "name": "Segment EBIT reconciles",
+          "residual": 0,
+          "passed": true
+        },
+        {
+          "name": "2026 Balance sheet",
+          "residual": -5.820766091346741e-11,
+          "passed": true
+        },
+        {
+          "name": "2026 Cash flow to cash",
+          "residual": 0.0,
+          "passed": true
+        },
+        {
+          "name": "2026 FCFF to CFO bridge",
+          "residual": 2.9103830456733704e-11,
+          "passed": true
+        },
+        {
+          "name": "2026 funding ceiling",
+          "residual": 0,
+          "passed": true
+        },
+        {
+          "name": "2026 nonnegative asset and cash-cost balances",
+          "residual": null,
+          "passed": true
+        },
+        {
+          "name": "2027 Balance sheet",
+          "residual": 0.0,
+          "passed": true
+        },
+        {
+          "name": "2027 Cash flow to cash",
+          "residual": 0.0,
+          "passed": true
+        },
+        {
+          "name": "2027 FCFF to CFO bridge",
+          "residual": -1.4551915228366852e-11,
+          "passed": true
+        },
+        {
+          "name": "2027 funding ceiling",
+          "residual": 0,
+          "passed": true
+        },
+        {
+          "name": "2027 nonnegative asset and cash-cost balances",
+          "residual": null,
+          "passed": true
+        },
+        {
+          "name": "2028 Balance sheet",
+          "residual": 2.3283064365386963e-10,
+          "passed": true
+        },
+        {
+          "name": "2028 Cash flow to cash",
+          "residual": 0.0,
+          "passed": true
+        },
+        {
+          "name": "2028 FCFF to CFO bridge",
+          "residual": -2.9103830456733704e-11,
+          "passed": true
+        },
+        {
+          "name": "2028 funding ceiling",
+          "residual": 0,
+          "passed": true
+        },
+        {
+          "name": "2028 nonnegative asset and cash-cost balances",
+          "residual": null,
+          "passed": true
+        },
+        {
+          "name": "2029 Balance sheet",
+          "residual": 0.0,
+          "passed": true
+        },
+        {
+          "name": "2029 Cash flow to cash",
+          "residual": 0.0,
+          "passed": true
+        },
+        {
+          "name": "2029 FCFF to CFO bridge",
+          "residual": -1.4551915228366852e-11,
+          "passed": true
+        },
+        {
+          "name": "2029 funding ceiling",
+          "residual": 0,
+          "passed": true
+        },
+        {
+          "name": "2029 nonnegative asset and cash-cost balances",
+          "residual": null,
+          "passed": true
+        },
+        {
+          "name": "2030 Balance sheet",
+          "residual": 2.3283064365386963e-10,
+          "passed": true
+        },
+        {
+          "name": "2030 Cash flow to cash",
+          "residual": 0.0,
+          "passed": true
+        },
+        {
+          "name": "2030 FCFF to CFO bridge",
+          "residual": 0.0,
+          "passed": true
+        },
+        {
+          "name": "2030 funding ceiling",
+          "residual": 0,
+          "passed": true
+        },
+        {
+          "name": "2030 nonnegative asset and cash-cost balances",
+          "residual": null,
+          "passed": true
+        }
+      ],
+      "warnings": [
+        "Scenario assumptions are AI-assisted proposals awaiting student judgment.",
+        "December balance sheet is a proxy at February valuation date; interim changes are not measured.",
+        "Terminal phase resets investment to growth/ROIC; review the explicit-to-terminal transition.",
+        "Borrowing is an assumed funding route, not committed access to capital.",
+        "More than 75% of operating value comes from the terminal period."
+      ],
+      "value": {
+        "ev": 12635.273410165362,
+        "equity": 56834.77341016536,
+        "per_share": 5.211368584793827,
+        "upside": -0.9752217165044036,
+        "action": "Do not initiate",
+        "bridge": {
+          "excess_cash": 61810,
+          "marketable_securities": 36219,
+          "anthropic_value_after_haircut_and_tax": 35905.5,
+          "debt_face": -69291,
+          "finance_leases": -12286,
+          "financing_obligations": -8158
+        },
+        "pv_explicit": -120092.52358450345,
+        "terminal_fcff": 19915.766604851488,
+        "terminal_nopat": 24894.70825606436,
+        "terminal_reinvestment": 4978.941651212872,
+        "terminal_value": 221286.29560946097,
+        "pv_terminal": 132727.7969946688,
+        "terminal_share": 10.504544910590246,
+        "discount_times": [
+          0.8980150581793293,
+          1.8973305954825461,
+          2.8993839835728954,
+          3.898699520876112,
+          4.898015058179329
+        ],
+        "cumulative_borrowing": 64955.17766425738
+      }
+    },
+    "Base": {
+      "valid": true,
+      "notice": "AI-assisted coursework draft. Educational purposes only; not investment advice.",
+      "valuation_date": "2026-02-06",
+      "market_price": 210.32,
+      "assumptions": {
+        "retail_growth": 0.095,
+        "international_growth": 0.1,
+        "aws_growth": 0.24,
+        "na_predep_margin": 0.115,
+        "intl_predep_margin": 0.065,
+        "aws_predep_margin": 0.59,
+        "capex_2026": 200000,
+        "capex_path": [
+          1,
+          0.95,
+          0.9,
+          0.88,
+          0.87
+        ],
+        "capacity_elasticity": 0.65,
+        "asset_life": 6,
+        "legacy_da_decay": 0.85,
+        "sbc_ratio": 0.0271549026,
+        "tax_rate": 0.21,
+        "debt_cost": 0.05,
+        "cash_floor": 25000,
+        "borrowing_ceiling": 250000,
+        "finance_lease_additions": 3000,
+        "finance_lease_principal": 1600,
+        "financing_principal": 358,
+        "debt_maturities": [
+          2752,
+          8832,
+          4752,
+          3000,
+          4500
+        ],
+        "wacc": 0.1,
+        "terminal_growth": 0.03,
+        "terminal_roic": 0.15,
+        "diluted_shares": 10905.92087,
+        "investment_realization": 0.75,
+        "investment_tax": 0.21
+      },
+      "opening_balance_sheet": {
+        "cash": 86810,
+        "securities": 36219,
+        "inventory": 38325,
+        "receivables": 67729,
+        "ppe": 357025,
+        "rou": 86054,
+        "goodwill": 23273,
+        "other_assets": 122607,
+        "trade_payables": 94909,
+        "capex_payable": 27000,
+        "operating_accruals": 57760,
+        "unearned": 20576,
+        "operating_leases": 89252,
+        "debt": 68851,
+        "finance_leases": 12286,
+        "financing_obligations": 8158,
+        "other_liabilities": 28185,
+        "equity": 411065
+      },
+      "years": [
+        {
+          "year": 2026,
+          "revenue": 804506.375,
+          "segment_sales": [
+            466803.975,
+            178083.40000000002,
+            159619.0
+          ],
+          "segment_predep_income": [
+            53682.457125,
+            11575.421000000002,
+            94175.20999999999
+          ],
+          "predep_income": 159433.088125,
+          "depreciation": 58847.20769158702,
+          "ebit": 100585.880433413,
+          "interest": 4096.856000000001,
+          "pretax": 96489.024433413,
+          "taxes": 20262.695131016728,
+          "net_income": 76226.32930239628,
+          "sbc": 21846.292254204076,
+          "capex": 200000,
+          "finance_lease_additions": 3366.4922990442496,
+          "investment": 203366.49229904424,
+          "change_nwc": -8208.328021694062,
+          "nopat": 79462.84554239627,
+          "fcff": -56848.111043366895,
+          "cfo": 165128.15726988143,
+          "cfi": -200000,
+          "cff": -4710,
+          "borrowing": 0,
+          "debt_repaid": 2752,
+          "lease_principal": 1600,
+          "financing_principal": 358,
+          "balance_sheet": {
+            "cash": 47228.15726988143,
+            "securities": 36219,
+            "inventory": 43006.9391202903,
+            "receivables": 76003.05230732268,
+            "ppe": 501544.28460745723,
+            "rou": 96957.3902247658,
+            "goodwill": 23273,
+            "other_assets": 122607,
+            "trade_payables": 106503.47253666358,
+            "capex_payable": 27000,
+            "operating_accruals": 64816.19839759863,
+            "unearned": 23089.64851504483,
+            "operating_leases": 100155.3902247658,
+            "debt": 66099,
+            "finance_leases": 14052.49229904425,
+            "financing_obligations": 7800,
+            "other_liabilities": 28185,
+            "equity": 509137.6215566003
+          }
+        },
+        {
+          "year": 2027,
+          "revenue": 898552.8357500001,
+          "segment_sales": [
+            508816.33275,
+            195001.32300000003,
+            194735.18
+          ],
+          "segment_predep_income": [
+            59531.51093175,
+            13065.088641000002,
+            114893.75619999999
+          ],
+          "predep_income": 187490.35577275,
+          "depreciation": 85656.08487060112,
+          "ebit": 101834.27090214887,
+          "interest": 4008.9347381675047,
+          "pretax": 97825.33616398137,
+          "taxes": 20543.320594436085,
+          "net_income": 77282.01556954528,
+          "sbc": 24400.11473574505,
+          "capex": 190000.0,
+          "finance_lease_additions": 3760.0338491248726,
+          "investment": 193760.03384912488,
+          "change_nwc": -8814.15009715571,
+          "nopat": 80449.07401269762,
+          "fcff": -18840.724868670426,
+          "cfo": 196152.36527304715,
+          "cfi": -190000.0,
+          "cff": -10790,
+          "borrowing": 0,
+          "debt_repaid": 8832,
+          "lease_principal": 1600,
+          "financing_principal": 358,
+          "balance_sheet": {
+            "cash": 42590.52254292858,
+            "securities": 36219,
+            "inventory": 48034.432422570244,
+            "receivables": 84887.77752245951,
+            "ppe": 609648.2335859811,
+            "rou": 108665.5137006977,
+            "goodwill": 23273,
+            "other_assets": 122607,
+            "trade_payables": 118953.68419553085,
+            "capex_payable": 27000,
+            "operating_accruals": 72393.18504181755,
+            "unearned": 25788.81882653113,
+            "operating_leases": 111863.5137006977,
+            "debt": 57267,
+            "finance_leases": 16212.526148169123,
+            "financing_obligations": 7442,
+            "other_liabilities": 28185,
+            "equity": 610819.7518618907
+          }
+        },
+        {
+          "year": 2028,
+          "revenue": 998299.37910375,
+          "segment_sales": [
+            552065.72103375,
+            212551.44207000005,
+            233682.216
+          ],
+          "segment_predep_income": [
+            65695.82080301625,
+            14666.049502830005,
+            137872.50744
+          ],
+          "predep_income": 218234.37774584623,
+          "depreciation": 111808.62332848522,
+          "ebit": 106425.75441736101,
+          "interest": 3630.393889037751,
+          "pretax": 102795.36052832326,
+          "taxes": 21587.025710947884,
+          "net_income": 81208.33481737538,
+          "sbc": 27108.722405202807,
+          "capex": 180000.0,
+          "finance_lease_additions": 4177.427645484388,
+          "investment": 184177.4276454844,
+          "change_nwc": -9348.36885706408,
+          "nopat": 84076.34598971519,
+          "fcff": 21055.910529780114,
+          "cfo": 229474.04940812747,
+          "cfi": -180000.0,
+          "cff": -6710,
+          "borrowing": 0,
+          "debt_repaid": 4752,
+          "lease_principal": 1600,
+          "financing_principal": 358,
+          "balance_sheet": {
+            "cash": 85354.57195105602,
+            "securities": 36219,
+            "inventory": 53366.63817106306,
+            "receivables": 94310.9990003374,
+            "ppe": 682017.0379029802,
+            "rou": 121083.25740492421,
+            "goodwill": 23273,
+            "other_assets": 122607,
+            "trade_payables": 132158.49346842594,
+            "capex_payable": 27000,
+            "operating_accruals": 80429.40693439277,
+            "unearned": 28651.583744495594,
+            "operating_leases": 124281.25740492421,
+            "debt": 52515,
+            "finance_leases": 18789.953793653513,
+            "financing_obligations": 7084,
+            "other_liabilities": 28185,
+            "equity": 719136.8090844689
+          }
+        },
+        {
+          "year": 2029,
+          "revenue": 1102594.3082424002,
+          "segment_sales": [
+            596230.97871645,
+            230618.31464595004,
+            275745.01488
+          ],
+          "segment_predep_income": [
+            72143.94842469046,
+            16373.900339862455,
+            162689.5587792
+          ],
+          "predep_income": 251207.4075437529,
+          "depreciation": 137666.9843291211,
+          "ebit": 113540.4232146318,
+          "interest": 3470.0444289842194,
+          "pretax": 110070.37878564758,
+          "taxes": 23114.77954498599,
+          "net_income": 86955.5992406616,
+          "sbc": 29940.841047636754,
+          "capex": 176000.0,
+          "finance_lease_additions": 4613.8543621460585,
+          "investment": 180613.85436214606,
+          "change_nwc": -9774.649173071375,
+          "nopat": 89696.93433955911,
+          "fcff": 56524.71347960553,
+          "cfo": 264338.07379049086,
+          "cfi": -176000.0,
+          "cff": -4958,
+          "borrowing": 0,
+          "debt_repaid": 3000,
+          "lease_principal": 1600,
+          "financing_principal": 358,
+          "balance_sheet": {
+            "cash": 168734.64574154688,
+            "securities": 36219,
+            "inventory": 58941.98947641589,
+            "receivables": 104163.91403126346,
+            "ppe": 724963.9079360053,
+            "rou": 134067.2431767533,
+            "goodwill": 23273,
+            "other_assets": 122607,
+            "trade_payables": 145965.43455230672,
+            "capex_payable": 27000,
+            "operating_accruals": 88832.0759858521,
+            "unearned": 31644.889118505762,
+            "operating_leases": 137265.2431767533,
+            "debt": 49515,
+            "finance_leases": 21803.808155799572,
+            "financing_obligations": 6726,
+            "other_liabilities": 28185,
+            "equity": 836033.2493727672
+          }
+        },
+        {
+          "year": 2030,
+          "revenue": 1209880.2991986098,
+          "segment_sales": [
+            640948.3021201838,
+            249067.77981762605,
+            319864.21726079995
+          ],
+          "segment_predep_income": [
+            78836.64116078262,
+            18181.947926686706,
+            188719.88818387195
+          ],
+          "predep_income": 285738.47727134125,
+          "depreciation": 163780.26301000788,
+          "ebit": 121958.21426133337,
+          "interest": 3412.1334772971854,
+          "pretax": 118546.08078403618,
+          "taxes": 24894.6769646476,
+          "net_income": 93651.40381938858,
+          "sbc": 32854.1816823971,
+          "capex": 174000.0,
+          "finance_lease_additions": 5062.797308495502,
+          "investment": 179062.7973084955,
+          "change_nwc": -10054.975169388563,
+          "nopat": 96346.98926645337,
+          "fcff": 91119.43013735431,
+          "cfo": 300340.8236811821,
+          "cfi": -174000.0,
+          "cff": -6458,
+          "borrowing": 0,
+          "debt_repaid": 4500,
+          "lease_principal": 1600,
+          "financing_principal": 358,
+          "balance_sheet": {
+            "cash": 288617.469422729,
+            "securities": 36219,
+            "inventory": 64677.23561603004,
+            "receivables": 114299.39963569728,
+            "ppe": 740246.4422344929,
+            "rou": 147423.59512594683,
+            "goodwill": 23273,
+            "other_assets": 122607,
+            "trade_payables": 160168.34325066654,
+            "capex_payable": 27000,
+            "operating_accruals": 97475.72417956674,
+            "unearned": 34724.03913986782,
+            "operating_leases": 150621.59512594683,
+            "debt": 45015,
+            "finance_leases": 25266.605464295073,
+            "financing_obligations": 6368,
+            "other_liabilities": 28185,
+            "equity": 962538.8348745529
+          }
+        }
+      ],
+      "checks": [
+        {
+          "name": "Historical balance sheet matches filing",
+          "residual": 0,
+          "passed": true
+        },
+        {
+          "name": "Historical assets match filing",
+          "residual": 0,
+          "passed": true
+        },
+        {
+          "name": "Segment revenue reconciles",
+          "residual": 0,
+          "passed": true
+        },
+        {
+          "name": "Segment EBIT reconciles",
+          "residual": 0,
+          "passed": true
+        },
+        {
+          "name": "2026 Balance sheet",
+          "residual": 0.0,
+          "passed": true
+        },
+        {
+          "name": "2026 Cash flow to cash",
+          "residual": 0.0,
+          "passed": true
+        },
+        {
+          "name": "2026 FCFF to CFO bridge",
+          "residual": 0.0,
+          "passed": true
+        },
+        {
+          "name": "2026 funding ceiling",
+          "residual": 0,
+          "passed": true
+        },
+        {
+          "name": "2026 nonnegative asset and cash-cost balances",
+          "residual": null,
+          "passed": true
+        },
+        {
+          "name": "2027 Balance sheet",
+          "residual": 1.1641532182693481e-10,
+          "passed": true
+        },
+        {
+          "name": "2027 Cash flow to cash",
+          "residual": 0.0,
+          "passed": true
+        },
+        {
+          "name": "2027 FCFF to CFO bridge",
+          "residual": 2.9103830456733704e-11,
+          "passed": true
+        },
+        {
+          "name": "2027 funding ceiling",
+          "residual": 0,
+          "passed": true
+        },
+        {
+          "name": "2027 nonnegative asset and cash-cost balances",
+          "residual": null,
+          "passed": true
+        },
+        {
+          "name": "2028 Balance sheet",
+          "residual": -1.1641532182693481e-10,
+          "passed": true
+        },
+        {
+          "name": "2028 Cash flow to cash",
+          "residual": -2.9103830456733704e-11,
+          "passed": true
+        },
+        {
+          "name": "2028 FCFF to CFO bridge",
+          "residual": 2.9103830456733704e-11,
+          "passed": true
+        },
+        {
+          "name": "2028 funding ceiling",
+          "residual": 0,
+          "passed": true
+        },
+        {
+          "name": "2028 nonnegative asset and cash-cost balances",
+          "residual": null,
+          "passed": true
+        },
+        {
+          "name": "2029 Balance sheet",
+          "residual": 1.1641532182693481e-10,
+          "passed": true
+        },
+        {
+          "name": "2029 Cash flow to cash",
+          "residual": 0.0,
+          "passed": true
+        },
+        {
+          "name": "2029 FCFF to CFO bridge",
+          "residual": -8.731149137020111e-11,
+          "passed": true
+        },
+        {
+          "name": "2029 funding ceiling",
+          "residual": 0,
+          "passed": true
+        },
+        {
+          "name": "2029 nonnegative asset and cash-cost balances",
+          "residual": null,
+          "passed": true
+        },
+        {
+          "name": "2030 Balance sheet",
+          "residual": 0.0,
+          "passed": true
+        },
+        {
+          "name": "2030 Cash flow to cash",
+          "residual": 0.0,
+          "passed": true
+        },
+        {
+          "name": "2030 FCFF to CFO bridge",
+          "residual": 1.4551915228366852e-11,
+          "passed": true
+        },
+        {
+          "name": "2030 funding ceiling",
+          "residual": 0,
+          "passed": true
+        },
+        {
+          "name": "2030 nonnegative asset and cash-cost balances",
+          "residual": null,
+          "passed": true
+        }
+      ],
+      "warnings": [
+        "Scenario assumptions are AI-assisted proposals awaiting student judgment.",
+        "December balance sheet is a proxy at February valuation date; interim changes are not measured.",
+        "Terminal phase resets investment to growth/ROIC; review the explicit-to-terminal transition.",
+        "Borrowing is an assumed funding route, not committed access to capital.",
+        "More than 75% of operating value comes from the terminal period."
+      ],
+      "value": {
+        "ev": 755266.7562669065,
+        "equity": 799466.2562669065,
+        "per_share": 73.30570850427475,
+        "upside": -0.6514563117902494,
+        "action": "Do not initiate",
+        "bridge": {
+          "excess_cash": 61810,
+          "marketable_securities": 36219,
+          "anthropic_value_after_haircut_and_tax": 35905.5,
+          "debt_face": -69291,
+          "finance_leases": -12286,
+          "financing_obligations": -8158
+        },
+        "pv_explicit": 44175.522952169194,
+        "terminal_fcff": 79389.91915555758,
+        "terminal_nopat": 99237.39894444698,
+        "terminal_reinvestment": 19847.479788889395,
+        "terminal_value": 1134141.702222251,
+        "pv_terminal": 711091.2333147373,
+        "terminal_share": 0.9415100392204236,
+        "discount_times": [
+          0.8980150581793293,
+          1.8973305954825461,
+          2.8993839835728954,
+          3.898699520876112,
+          4.898015058179329
+        ],
+        "cumulative_borrowing": 0
+      }
+    },
+    "Upside": {
+      "valid": true,
+      "notice": "AI-assisted coursework draft. Educational purposes only; not investment advice.",
+      "valuation_date": "2026-02-06",
+      "market_price": 210.32,
+      "assumptions": {
+        "retail_growth": 0.12,
+        "international_growth": 0.13,
+        "aws_growth": 0.3,
+        "na_predep_margin": 0.135,
+        "intl_predep_margin": 0.065,
+        "aws_predep_margin": 0.64,
+        "capex_2026": 190000,
+        "capex_path": [
+          1,
+          0.95,
+          0.9,
+          0.88,
+          0.87
+        ],
+        "capacity_elasticity": 0.65,
+        "asset_life": 6,
+        "legacy_da_decay": 0.85,
+        "sbc_ratio": 0.0271549026,
+        "tax_rate": 0.21,
+        "debt_cost": 0.05,
+        "cash_floor": 25000,
+        "borrowing_ceiling": 250000,
+        "finance_lease_additions": 3000,
+        "finance_lease_principal": 1600,
+        "financing_principal": 358,
+        "debt_maturities": [
+          2752,
+          8832,
+          4752,
+          3000,
+          4500
+        ],
+        "wacc": 0.09,
+        "terminal_growth": 0.035,
+        "terminal_roic": 0.18,
+        "diluted_shares": 10905.92087,
+        "investment_realization": 0.75,
+        "investment_tax": 0.21
+      },
+      "opening_balance_sheet": {
+        "cash": 86810,
+        "securities": 36219,
+        "inventory": 38325,
+        "receivables": 67729,
+        "ppe": 357025,
+        "rou": 86054,
+        "goodwill": 23273,
+        "other_assets": 122607,
+        "trade_payables": 94909,
+        "capex_payable": 27000,
+        "operating_accruals": 57760,
+        "unearned": 20576,
+        "operating_leases": 89252,
+        "debt": 68851,
+        "finance_leases": 12286,
+        "financing_obligations": 8158,
+        "other_liabilities": 28185,
+        "equity": 411065
+      },
+      "years": [
+        {
+          "year": 2026,
+          "revenue": 827744.3200000001,
+          "segment_sales": [
+            477461.60000000003,
+            182940.21999999997,
+            167342.5
+          ],
+          "segment_predep_income": [
+            64457.316000000006,
+            11891.1143,
+            107099.2
+          ],
+          "predep_income": 183447.6303,
+          "depreciation": 58021.977708469334,
+          "ebit": 125425.65259153066,
+          "interest": 4096.856000000001,
+          "pretax": 121328.79659153066,
+          "taxes": 25479.047284221437,
+          "net_income": 95849.74930730922,
+          "sbc": 22477.31638730323,
+          "capex": 190000,
+          "finance_lease_additions": 3463.732501631973,
+          "investment": 193463.73250163198,
+          "change_nwc": -10386.216839051296,
+          "nopat": 99086.26554730922,
+          "fcff": -25969.27240680212,
+          "cfo": 186735.26024213305,
+          "cfi": -190000,
+          "cff": -4710,
+          "borrowing": 0,
+          "debt_repaid": 2752,
+          "lease_principal": 1600,
+          "financing_principal": 358,
+          "balance_sheet": {
+            "cash": 78835.26024213305,
+            "securities": 36219,
+            "inventory": 44249.182708348446,
+            "receivables": 78198.37953434396,
+            "ppe": 492466.75479316263,
+            "rou": 99850.35107855228,
+            "goodwill": 23273,
+            "other_assets": 122607,
+            "trade_payables": 109579.79599912962,
+            "capex_payable": 27000,
+            "operating_accruals": 66688.39643142092,
+            "unearned": 23756.586651193156,
+            "operating_leases": 103048.35107855228,
+            "debt": 66099,
+            "finance_leases": 14149.732501631974,
+            "financing_obligations": 7800,
+            "other_liabilities": 28185,
+            "equity": 529392.0656946125
+          }
+        },
+        {
+          "year": 2027,
+          "revenue": 952375.8315,
+          "segment_sales": [
+            532369.684,
+            205807.74749999997,
+            214198.4
+          ],
+          "segment_predep_income": [
+            72934.646708,
+            13789.1190825,
+            137086.976
+          ],
+          "predep_income": 223810.7417905,
+          "depreciation": 84193.55286342374,
+          "ebit": 139617.18892707626,
+          "interest": 4012.240905055487,
+          "pretax": 135604.94802202078,
+          "taxes": 28477.03908462436,
+          "net_income": 107127.90893739642,
+          "sbc": 25861.67294297651,
+          "capex": 192029.91081646932,
+          "finance_lease_additions": 3985.2585413516636,
+          "investment": 196015.16935782097,
+          "change_nwc": -11680.618711601928,
+          "nopat": 110297.57925239025,
+          "fcff": 10156.581469594952,
+          "cfo": 228863.7534553986,
+          "cfi": -192029.91081646932,
+          "cff": -10790,
+          "borrowing": 0,
+          "debt_repaid": 8832,
+          "lease_principal": 1600,
+          "financing_principal": 358,
+          "balance_sheet": {
+            "cash": 104879.10288106234,
+            "securities": 36219,
+            "inventory": 50911.677865767495,
+            "receivables": 89972.52524906893,
+            "ppe": 604288.3712875599,
+            "rou": 115366.09844423957,
+            "goodwill": 23273,
+            "other_assets": 122607,
+            "trade_payables": 126078.967633715,
+            "capex_payable": 27000,
+            "operating_accruals": 76729.51111615736,
+            "unearned": 27333.559915617276,
+            "operating_leases": 118564.09844423957,
+            "debt": 57267,
+            "finance_leases": 16534.991042983638,
+            "financing_obligations": 7442,
+            "other_liabilities": 28185,
+            "equity": 662381.6475749854
+          }
+        },
+        {
+          "year": 2028,
+          "revenue": 1091325.0104399999,
+          "segment_sales": [
+            590930.34924,
+            230504.67719999998,
+            269889.984
+          ],
+          "segment_predep_income": [
+            82139.31854436001,
+            15904.8227268,
+            172729.58976
+          ],
+          "predep_income": 270773.73103116,
+          "depreciation": 111215.20592177901,
+          "ebit": 159558.52510938098,
+          "interest": 3641.3576954614446,
+          "pretax": 155917.16741391952,
+          "taxes": 32742.6051569231,
+          "net_income": 123174.56225699643,
+          "sbc": 29634.824363442178,
+          "capex": 187784.96985244346,
+          "finance_lease_additions": 4566.69748999894,
+          "investment": 192351.6673424424,
+          "change_nwc": -13022.488132853046,
+          "nopat": 126051.23483641096,
+          "fcff": 57937.26154860061,
+          "cfo": 277047.0806750707,
+          "cfi": -187784.96985244346,
+          "cff": -6710,
+          "borrowing": 0,
+          "debt_repaid": 4752,
+          "lease_principal": 1600,
+          "financing_principal": 358,
+          "balance_sheet": {
+            "cash": 187431.2137036896,
+            "securities": 36219,
+            "inventory": 58339.56043473644,
+            "receivables": 103099.2847667127,
+            "ppe": 685424.8327082233,
+            "rou": 132664.2947924618,
+            "goodwill": 23273,
+            "other_assets": 122607,
+            "trade_payables": 144473.56402610312,
+            "capex_payable": 27000,
+            "operating_accruals": 87924.14900744623,
+            "unearned": 31321.45585140606,
+            "operating_leases": 135862.2947924618,
+            "debt": 52515,
+            "finance_leases": 19501.688532982578,
+            "financing_obligations": 7084,
+            "other_liabilities": 28185,
+            "equity": 815191.0341954239
+          }
+        },
+        {
+          "year": 2029,
+          "revenue": 1244654.3311482,
+          "segment_sales": [
+            652978.0359102,
+            257012.71507799998,
+            334663.58016
+          ],
+          "segment_predep_income": [
+            92069.9030633382,
+            18247.902770538,
+            214184.69130240002
+          ],
+          "predep_income": 324502.4971362762,
+          "depreciation": 138939.9334312124,
+          "ebit": 185562.5637050638,
+          "interest": 3494.243410121408,
+          "pretax": 182068.3202949424,
+          "taxes": 38234.3472619379,
+          "net_income": 143833.9730330045,
+          "sbc": 33798.46713299752,
+          "capex": 189627.70199661134,
+          "finance_lease_additions": 5208.31077414705,
+          "investment": 194836.0127707584,
+          "change_nwc": -14370.212725065197,
+          "nopat": 146594.4253270004,
+          "fcff": 105068.55871251963,
+          "cfo": 330942.5863222796,
+          "cfi": -189627.70199661134,
+          "cff": -4958,
+          "borrowing": 0,
+          "debt_repaid": 3000,
+          "lease_principal": 1600,
+          "financing_principal": 358,
+          "balance_sheet": {
+            "cash": 323788.09802935785,
+            "securities": 36219,
+            "inventory": 66536.17013972857,
+            "receivables": 117584.5601407352,
+            "ppe": 741320.9120477692,
+            "rou": 151752.71773805752,
+            "goodwill": 23273,
+            "other_assets": 122607,
+            "trade_payables": 164771.85575450744,
+            "capex_payable": 27000,
+            "operating_accruals": 100277.34343824454,
+            "unearned": 35722.06749628324,
+            "operating_leases": 154950.71773805752,
+            "debt": 49515,
+            "finance_leases": 23109.999307129627,
+            "financing_obligations": 6726,
+            "other_liabilities": 28185,
+            "equity": 992823.474361426
+          }
+        },
+        {
+          "year": 2030,
+          "revenue": 1411849.521033,
+          "segment_sales": [
+            718275.83950122,
+            285284.11373658,
+            408289.5677952
+          ],
+          "segment_predep_income": [
+            102713.44504867448,
+            20825.740302770344,
+            261305.323388928
+          ],
+          "predep_income": 384844.50874037284,
+          "depreciation": 167952.15808786816,
+          "ebit": 216892.35065250468,
+          "interest": 3456.5439764424073,
+          "pretax": 213435.8066760623,
+          "taxes": 44821.51940197308,
+          "net_income": 168614.2872740892,
+          "sbc": 38338.63622950776,
+          "capex": 193720.04421158574,
+          "finance_lease_additions": 5907.946397524703,
+          "investment": 199627.99060911045,
+          "change_nwc": -15669.739056789316,
+          "nopat": 171344.9570154787,
+          "fcff": 155338.86355102574,
+          "cfo": 390574.8206482544,
+          "cfi": -193720.04421158574,
+          "cff": -6458,
+          "borrowing": 0,
+          "debt_repaid": 4500,
+          "lease_principal": 1600,
+          "financing_principal": 358,
+          "balance_sheet": {
+            "cash": 514184.87446602643,
+            "securities": 36219,
+            "inventory": 75474.01522837808,
+            "receivables": 133379.7671859835,
+            "ppe": 772996.7445690115,
+            "rou": 172567.3439572916,
+            "goodwill": 23273,
+            "other_assets": 122607,
+            "trade_payables": 186905.76154755734,
+            "capex_payable": 27000,
+            "operating_accruals": 113747.66130700894,
+            "unearned": 40520.635025156094,
+            "operating_leases": 175765.3439572916,
+            "debt": 45015,
+            "finance_leases": 27417.94570465433,
+            "financing_obligations": 6368,
+            "other_liabilities": 28185,
+            "equity": 1199776.397865023
+          }
+        }
+      ],
+      "checks": [
+        {
+          "name": "Historical balance sheet matches filing",
+          "residual": 0,
+          "passed": true
+        },
+        {
+          "name": "Historical assets match filing",
+          "residual": 0,
+          "passed": true
+        },
+        {
+          "name": "Segment revenue reconciles",
+          "residual": 0,
+          "passed": true
+        },
+        {
+          "name": "Segment EBIT reconciles",
+          "residual": 0,
+          "passed": true
+        },
+        {
+          "name": "2026 Balance sheet",
+          "residual": 0.0,
+          "passed": true
+        },
+        {
+          "name": "2026 Cash flow to cash",
+          "residual": 0.0,
+          "passed": true
+        },
+        {
+          "name": "2026 FCFF to CFO bridge",
+          "residual": 4.3655745685100555e-11,
+          "passed": true
+        },
+        {
+          "name": "2026 funding ceiling",
+          "residual": 0,
+          "passed": true
+        },
+        {
+          "name": "2026 nonnegative asset and cash-cost balances",
+          "residual": null,
+          "passed": true
+        },
+        {
+          "name": "2027 Balance sheet",
+          "residual": -1.1641532182693481e-10,
+          "passed": true
+        },
+        {
+          "name": "2027 Cash flow to cash",
+          "residual": 0.0,
+          "passed": true
+        },
+        {
+          "name": "2027 FCFF to CFO bridge",
+          "residual": 1.4551915228366852e-11,
+          "passed": true
+        },
+        {
+          "name": "2027 funding ceiling",
+          "residual": 0,
+          "passed": true
+        },
+        {
+          "name": "2027 nonnegative asset and cash-cost balances",
+          "residual": null,
+          "passed": true
+        },
+        {
+          "name": "2028 Balance sheet",
+          "residual": 1.1641532182693481e-10,
+          "passed": true
+        },
+        {
+          "name": "2028 Cash flow to cash",
+          "residual": 2.9103830456733704e-11,
+          "passed": true
+        },
+        {
+          "name": "2028 FCFF to CFO bridge",
+          "residual": -1.4551915228366852e-11,
+          "passed": true
+        },
+        {
+          "name": "2028 funding ceiling",
+          "residual": 0,
+          "passed": true
+        },
+        {
+          "name": "2028 nonnegative asset and cash-cost balances",
+          "residual": null,
+          "passed": true
+        },
+        {
+          "name": "2029 Balance sheet",
+          "residual": 0.0,
+          "passed": true
+        },
+        {
+          "name": "2029 Cash flow to cash",
+          "residual": 0.0,
+          "passed": true
+        },
+        {
+          "name": "2029 FCFF to CFO bridge",
+          "residual": 1.4551915228366852e-11,
+          "passed": true
+        },
+        {
+          "name": "2029 funding ceiling",
+          "residual": 0,
+          "passed": true
+        },
+        {
+          "name": "2029 nonnegative asset and cash-cost balances",
+          "residual": null,
+          "passed": true
+        },
+        {
+          "name": "2030 Balance sheet",
+          "residual": 0.0,
+          "passed": true
+        },
+        {
+          "name": "2030 Cash flow to cash",
+          "residual": -8.731149137020111e-11,
+          "passed": true
+        },
+        {
+          "name": "2030 FCFF to CFO bridge",
+          "residual": 0.0,
+          "passed": true
+        },
+        {
+          "name": "2030 funding ceiling",
+          "residual": 0,
+          "passed": true
+        },
+        {
+          "name": "2030 nonnegative asset and cash-cost balances",
+          "residual": null,
+          "passed": true
+        }
+      ],
+      "warnings": [
+        "Scenario assumptions are AI-assisted proposals awaiting student judgment.",
+        "December balance sheet is a proxy at February valuation date; interim changes are not measured.",
+        "Terminal phase resets investment to growth/ROIC; review the explicit-to-terminal transition.",
+        "Borrowing is an assumed funding route, not committed access to capital.",
+        "More than 75% of operating value comes from the terminal period."
+      ],
+      "value": {
+        "ev": 1909709.7282938086,
+        "equity": 1953909.2282938086,
+        "per_share": 179.16040759736492,
+        "upside": -0.14815325410153612,
+        "action": "Watch / defer",
+        "bridge": {
+          "excess_cash": 61810,
+          "marketable_securities": 36219,
+          "anthropic_value_after_haircut_and_tax": 35905.5,
+          "debt_face": -69291,
+          "finance_leases": -12286,
+          "financing_obligations": -8158
+        },
+        "pv_explicit": 206653.7081148122,
+        "terminal_fcff": 142858.85791165533,
+        "terminal_nopat": 177342.03051102042,
+        "terminal_reinvestment": 34483.17259936509,
+        "terminal_value": 2597433.7802119153,
+        "pv_terminal": 1703056.0201789965,
+        "terminal_share": 0.891787895797419,
+        "discount_times": [
+          0.8980150581793293,
+          1.8973305954825461,
+          2.8993839835728954,
+          3.898699520876112,
+          4.898015058179329
+        ],
+        "cumulative_borrowing": 0
+      }
+    }
+  },
+  "sensitivities": [
+    {
+      "driver": "aws_growth",
+      "label": "AWS growth in 2026",
+      "low_input": 0.16,
+      "high_input": 0.32,
+      "low_value": 50.01540931358019,
+      "high_value": 105.85984384141948,
+      "span": 55.84443452783928,
+      "half_range_span": 27.67430749992557,
+      "low_2030_ebit": 81067.00391437305,
+      "high_2030_ebit": 178356.17593630464,
+      "low_2030_fcff": 77416.73917597253,
+      "high_2030_fcff": 113930.42304906926
+    },
+    {
+      "driver": "retail_growth",
+      "label": "North America growth in 2026",
+      "low_input": 0.06,
+      "high_input": 0.13,
+      "low_value": 64.79799890203307,
+      "high_value": 82.9056645242847,
+      "span": 18.10766562225163,
+      "half_range_span": 9.04107212149448,
+      "low_2030_ebit": 110189.95988949659,
+      "high_2030_ebit": 135355.230921421,
+      "low_2030_fcff": 79844.66067823884,
+      "high_2030_fcff": 104194.2007208277
+    },
+    {
+      "driver": "international_growth",
+      "label": "International growth in 2026",
+      "low_input": 0.05,
+      "high_input": 0.15,
+      "low_value": 70.4939390210795,
+      "high_value": 76.64720866940588,
+      "span": 6.153269648326386,
+      "half_range_span": 3.0678154136718945,
+      "low_2030_ebit": 118236.13601696838,
+      "high_2030_ebit": 126436.20050370213,
+      "low_2030_fcff": 87122.79120065673,
+      "high_2030_fcff": 96119.4420152238
+    },
+    {
+      "driver": "aws_predep_margin",
+      "label": "AWS margin before PPE depreciation",
+      "low_input": 0.52,
+      "high_input": 0.66,
+      "low_value": 56.888052830168405,
+      "high_value": 89.72336417838116,
+      "span": 32.835311348212755,
+      "half_range_span": 16.417655674106385,
+      "low_2030_ebit": 99567.71905307742,
+      "high_2030_ebit": 144348.70946958943,
+      "low_2030_fcff": 73430.93892283212,
+      "high_2030_fcff": 108807.92135187656
+    },
+    {
+      "driver": "na_predep_margin",
+      "label": "North America margin before PPE depreciation",
+      "low_input": 0.09,
+      "high_input": 0.14,
+      "low_value": 60.96320340287296,
+      "high_value": 85.64821360567659,
+      "span": 24.685010202803625,
+      "half_range_span": 12.342505101401784,
+      "low_2030_ebit": 105934.50670832882,
+      "high_2030_ebit": 137981.92181433798,
+      "low_2030_fcff": 78460.70117048071,
+      "high_2030_fcff": 103778.15910422795
+    },
+    {
+      "driver": "capex_2026",
+      "label": "2026 cash investment ($m)",
+      "low_input": 160000,
+      "high_input": 240000,
+      "low_value": 100.07873924891113,
+      "high_value": 46.53267775963836,
+      "span": 53.54606148927277,
+      "half_range_span": 26.77303074463636,
+      "low_2030_ebit": 149724.88092800003,
+      "high_2030_ebit": 94191.54759466671,
+      "low_2030_fcff": 120088.43013735431,
+      "high_2030_fcff": 62150.430137354284
+    },
+    {
+      "driver": "wacc",
+      "label": "WACC",
+      "low_input": 0.08,
+      "high_input": 0.12,
+      "low_value": 108.67774521454331,
+      "high_value": 53.89818503884001,
+      "span": 54.779560175703295,
+      "half_range_span": 25.640516214312676,
+      "low_2030_ebit": 121958.21426133337,
+      "high_2030_ebit": 121958.21426133337,
+      "low_2030_fcff": 91119.43013735431,
+      "high_2030_fcff": 91119.43013735431
+    },
+    {
+      "driver": "terminal_growth",
+      "label": "Terminal growth",
+      "low_input": 0.02,
+      "high_input": 0.04,
+      "low_value": 69.30969314675099,
+      "high_value": 78.5106393990032,
+      "span": 9.200946252252209,
+      "half_range_span": 4.5353776741227705,
+      "low_2030_ebit": 121958.21426133337,
+      "high_2030_ebit": 121958.21426133337,
+      "low_2030_fcff": 91119.43013735431,
+      "high_2030_fcff": 91119.43013735431
+    },
+    {
+      "driver": "terminal_roic",
+      "label": "Terminal incremental ROIC",
+      "low_input": 0.1,
+      "high_input": 0.2,
+      "low_value": 65.15541975526587,
+      "high_value": 77.3808528787792,
+      "span": 12.225433123513326,
+      "half_range_span": 5.588769427891805,
+      "low_2030_ebit": 121958.21426133337,
+      "high_2030_ebit": 121958.21426133337,
+      "low_2030_fcff": 91119.43013735431,
+      "high_2030_fcff": 91119.43013735431
+    }
+  ],
+  "grid": [
+    {
+      "wacc": 0.08,
+      "cells": [
+        98.09311280032955,
+        102.92267269786288,
+        108.67774521454331,
+        115.66683455675313,
+        124.352697034066
+      ]
+    },
+    {
+      "wacc": 0.09,
+      "cells": [
+        81.59731711186936,
+        84.56566858235529,
+        87.99656517118719,
+        92.01615554700474,
+        96.80104784590375
+      ]
+    },
+    {
+      "wacc": 0.1,
+      "cells": [
+        69.30969314675099,
+        71.1868092717924,
+        73.30570850427475,
+        75.72218694591517,
+        78.5106393990032
+      ]
+    },
+    {
+      "wacc": 0.11,
+      "cells": [
+        59.82436715812715,
+        61.02613676710845,
+        62.35604895687451,
+        63.83973224358225,
+        65.51013757657635
+      ]
+    },
+    {
+      "wacc": 0.12,
+      "cells": [
+        52.29796015250231,
+        53.06485814287838,
+        53.89818503884001,
+        54.80966358843171,
+        55.813947226709125
+      ]
+    }
+  ],
+  "reverse_dcf": {
+    "status": "No feasible root in 10%-40% initial AWS growth bracket",
+    "aws_growth": null,
+    "implied_2031_ebit": 389584.89174508903,
+    "implied_2031_margin": 0.31262411597771156,
+    "terminal_method": "Hold explicit cash flows, WACC, growth, ROIC and bridge fixed; solve terminal operating profit needed to match price."
+  }
+}
