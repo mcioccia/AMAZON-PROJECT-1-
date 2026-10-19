@@ -1,0 +1,13 @@
+item,required,location_or_url,title,duration_or_as_of,timestamp_index,access_checked,frozen_or_commit_id,notes
+Research-Evolution.pdf,yes,docs/Research-Evolution.pdf,Amazon working draft: Research-Evolution.pdf,Historical valuation 2026-02-06; prepared 2026-10-19,,,sha256:47d5558d33957acbf32f578b7d47c1ae48bf8865295c30c26fe4f2e4f6006884,Local draft exists. Instructor access NOT checked; access field intentionally blank. Student review required.
+Repository,yes,,,,,,,Not created or verified; student evidence pending.
+Visible executed output,yes,outputs/visible-result.html,Amazon working draft: Visible executed output,Historical valuation 2026-02-06; prepared 2026-10-19,,,sha256:59160d2cffbfcb806f48f8ba4a41b5901280a9ed74fa346fa05df155dcb57e54,Local draft exists. Instructor access NOT checked; access field intentionally blank. Student review required.
+Decision memo or deck,yes,docs/Decision-Memo.pdf,Amazon working draft: Decision memo or deck,Historical valuation 2026-02-06; prepared 2026-10-19,,,sha256:324980cabbf882c133f89151abe22a0dc30b97303e5a532780a0fe9c88b78454,Local draft exists. Instructor access NOT checked; access field intentionally blank. Student review required.
+Validation-and-AI-Use.pdf,yes,docs/Validation-and-AI-Use.pdf,Amazon working draft: Validation-and-AI-Use.pdf,Historical valuation 2026-02-06; prepared 2026-10-19,,,sha256:6a073b8b9a943f682225519b44f95f761c3eefe6b963765bf78edd5fe7793acd,Local draft exists. Instructor access NOT checked; access field intentionally blank. Student review required.
+Video 1,yes,,,,,,,Not created or verified; student evidence pending.
+Transcript Video 1,yes,,,,,,,Not created or verified; student evidence pending.
+Video 2,yes,,,,,,,Not created or verified; student evidence pending.
+Transcript Video 2,yes,,,,,,,Not created or verified; student evidence pending.
+Video 3,yes,,,,,,,Not created or verified; student evidence pending.
+Transcript Video 3,yes,,,,,,,Not created or verified; student evidence pending.
+Optional deployed output,no,,,,,,,"Optional; local app included, no deployment."

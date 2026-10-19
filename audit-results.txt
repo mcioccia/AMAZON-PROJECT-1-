@@ -1,0 +1,17 @@
+AI-assisted run; not a human cold run.
+UTC: 2026-10-19T14:45:54.205148+00:00
+Command: C:\Users\mac10\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe project_audit.py project-submission-manifest-template.csv
+Mechanical gaps:
+- Research-Evolution.pdf
+- Repository
+- Visible executed output
+- Decision memo or deck
+- Validation-and-AI-Use.pdf
+- Video 1
+- Transcript Video 1
+- Video 2
+- Transcript Video 2
+- Video 3
+- Transcript Video 3
+
+Exit code: 0

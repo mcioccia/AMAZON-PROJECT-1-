@@ -1,0 +1,48 @@
+{
+  "company": "Amazon.com, Inc.", "ticker": "AMZN", "units": "USD millions; shares in millions; price USD/share",
+  "valuation_date": "2026-02-06", "information_cutoff": "2026-02-06", "decision_horizon": "3-5 years (proposed, student to confirm)",
+  "market_price": 210.32, "reference_aws_growth": 0.24,
+  "history": {
+    "year":2025, "revenue":716924, "segment_sales":[426305,161894,128725], "segment_ebit":[29619,4750,45606],
+    "ebit":79975, "net_income":77670, "cfo":139514, "ppe_da":41900, "sbc":19467,
+    "cash_capex":131819, "capex_proceeds":3499, "cash":86810, "securities":36219,
+    "inventory":38325, "receivables":67729, "ppe":357025, "rou":86054, "goodwill":23273, "other_assets":122607,
+    "total_assets":818042,"payables":121909,"capex_payable":27000,"accruals":75520,"unearned":20576,
+    "long_debt":65648,"current_debt":2748,"short_debt":455,"debt_face":68836,"current_leases":14199,
+    "operating_leases":89252,"finance_leases":12286,"financing_obligations":8158,"current_financing":358,
+    "other_liabilities":35985,"equity":411065,"anthropic_carrying":60600,"shares_outstanding":10734.920870,
+    "diluted_weighted_average_shares":10827
+  },
+  "assumptions": {
+    "retail_growth":0.095,"international_growth":0.10,"aws_growth":0.24,
+    "na_predep_margin":0.115,"intl_predep_margin":0.065,"aws_predep_margin":0.59,
+    "capex_2026":200000,"capex_path":[1,0.95,0.90,0.88,0.87],"capacity_elasticity":0.65,
+    "asset_life":6,"legacy_da_decay":0.85,"sbc_ratio":0.0271549026,"tax_rate":0.21,
+    "debt_cost":0.05,"cash_floor":25000,"borrowing_ceiling":250000,
+    "finance_lease_additions":3000,"finance_lease_principal":1600,"financing_principal":358,
+    "debt_maturities":[2752,8832,4752,3000,4500],"wacc":0.10,"terminal_growth":0.03,"terminal_roic":0.15,
+    "diluted_shares":10905.920870,"investment_realization":0.75,"investment_tax":0.21
+  },
+  "controls": {
+    "aws_growth":{"label":"AWS growth in 2026","min":0.16,"max":0.32,"step":0.01,"format":"percent","basis":"Q4 2025 AWS growth was 24%; scenario band is a judgment, not guidance. Fades 2 percentage points annually."},
+    "retail_growth":{"label":"North America growth in 2026","min":0.06,"max":0.13,"step":0.005,"format":"percent","basis":"FY2025 growth about 10%; declines 0.5 percentage points each year."},
+    "international_growth":{"label":"International growth in 2026","min":0.05,"max":0.15,"step":0.005,"format":"percent","basis":"FY2025 reported growth about 13%, currency-neutral about 10%; fades 0.5 points annually."},
+    "aws_predep_margin":{"label":"AWS margin before PPE depreciation","min":0.52,"max":0.66,"step":0.01,"format":"percent","basis":"Analyst allocation assumption; NOT a reported AWS EBITDA margin. Costs include SBC, content and operating rent. Review allocation in assumptions record."},
+    "na_predep_margin":{"label":"North America margin before PPE depreciation","min":0.09,"max":0.14,"step":0.005,"format":"percent","basis":"Analyst assumption before PPE depreciation; improves 0.2 percentage points yearly."},
+    "capex_2026":{"label":"2026 cash investment ($m)","min":160000,"max":240000,"step":10000,"format":"money","basis":"Management February outlook about $200bn; mapping to cash investment and subsequent fade are analyst conventions."},
+    "wacc":{"label":"WACC","min":0.08,"max":0.12,"step":0.005,"format":"percent","basis":"10% hurdle assumption; not represented as an estimated market WACC. Market calibration still required."},
+    "terminal_growth":{"label":"Terminal growth","min":0.02,"max":0.04,"step":0.005,"format":"percent","basis":"Long-run nominal scenario assumption; must remain below WACC and terminal ROIC."},
+    "terminal_roic":{"label":"Terminal incremental ROIC","min":0.10,"max":0.20,"step":0.01,"format":"percent","basis":"Required reinvestment = terminal NOPAT x growth / ROIC; chosen range requires student defense."}
+  },
+  "scenarios": {
+    "Downside":{"aws_growth":0.16,"retail_growth":0.06,"international_growth":0.05,"aws_predep_margin":0.54,"na_predep_margin":0.095,"capex_2026":220000,"wacc":0.11,"terminal_growth":0.02,"terminal_roic":0.10},
+    "Base":{},
+    "Upside":{"aws_growth":0.30,"retail_growth":0.12,"international_growth":0.13,"aws_predep_margin":0.64,"na_predep_margin":0.135,"capex_2026":190000,"wacc":0.09,"terminal_growth":0.035,"terminal_roic":0.18}
+  },
+  "sources": {
+    "history":"https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+    "guidance":"https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Fourth-Quarter-Results/",
+    "price":"https://finance.yahoo.com/quote/AMZN/history/?p=AMZN",
+    "price_check":"https://www.financecharts.com/stocks/AMZN/summary/price"
+  }
+}
